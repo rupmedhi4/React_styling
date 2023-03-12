@@ -18,3 +18,8 @@
   border-color: #ac0e77;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.26);
 }
+
+.submitBtn{
+  color: rgb(228, 12, 12);
+ background-color: rgb(218, 87, 87);
+}
